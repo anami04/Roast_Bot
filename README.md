@@ -51,7 +51,7 @@ Screenshot 1- Opening Window
 <img src="IMG-20241026-WA0025.jpg">
 
 Screenshot2 - On clicking start button bot will start asking questions 
-<img src="IMG-20241026-WA0026.jpg">
+<img src="IMG-20241026-WA0027.jpg">
 
 Screenshot 3 - When the user answers it , bot will give roasting  comments
-<img src="IMG-20241026-WA0027.jpg">
+<img src="IMG-20241026-WA0028.jpg">
