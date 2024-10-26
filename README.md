@@ -8,9 +8,9 @@
 
 
 ### Team Members
-- Team Lead: Anamika - GCEK
-- Member 2: Thejas - GCEK
-- Member 3: Sruti - GCEK
+- Team Lead: Anamika C- GCEK
+- Member 2: Thejas M - GCEK
+- Member 3: Sruti Ganga- GCEK
 
 ### Project Description
 The **Roast Chatbot** is an interactive web application that engages users in humorous conversations by delivering personalized roasts based on their quirky answers. Built with JavaScript, HTML, and CSS, it features a smooth conversational flow and a user-friendly design. Users enjoy a fun experience as the chatbot dynamically generates witty responses, making it a light-hearted entertainment tool. Future enhancements may include machine learning for tailored responses and expanded language support.
