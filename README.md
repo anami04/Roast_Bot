@@ -60,3 +60,7 @@ Screenshot 3 - When the user answers it , bot will give roasting  comments
 <video width="320" height="240" controls>
   <source src="record_000001.mp4" type="video/mp4">
 </video>
+
+[![Watch the video](https://raw.githubusercontent.com/anami04/Roast_Bot/main/path/to/IMG-20241026-WA0025.jpg)](https://raw.githubusercontent.com/anami04/Roast_Bot/main/path/to/record_000001.mp4)
+
+
