@@ -1,7 +1,7 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # Roasting Bot 🎯
-[Hosted Link]( https://anami04.github.io/Roast_Bot/)
+Click here to go to [Roasting Bot]( https://anami04.github.io/Roast_Bot/)
 
 ## Basic Details
 ### Team Name: Aspire
